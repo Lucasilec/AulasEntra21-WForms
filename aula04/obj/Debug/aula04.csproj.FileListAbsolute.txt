@@ -1,0 +1,10 @@
+C:\Users\entra21\source\repos\AuladeWF\aula04\bin\Debug\aula04.exe.config
+C:\Users\entra21\source\repos\AuladeWF\aula04\bin\Debug\aula04.exe
+C:\Users\entra21\source\repos\AuladeWF\aula04\bin\Debug\aula04.pdb
+C:\Users\entra21\source\repos\AuladeWF\aula04\obj\Debug\aula04.csprojAssemblyReference.cache
+C:\Users\entra21\source\repos\AuladeWF\aula04\obj\Debug\aula04.Form1.resources
+C:\Users\entra21\source\repos\AuladeWF\aula04\obj\Debug\aula04.Properties.Resources.resources
+C:\Users\entra21\source\repos\AuladeWF\aula04\obj\Debug\aula04.csproj.GenerateResource.cache
+C:\Users\entra21\source\repos\AuladeWF\aula04\obj\Debug\aula04.csproj.CoreCompileInputs.cache
+C:\Users\entra21\source\repos\AuladeWF\aula04\obj\Debug\aula04.exe
+C:\Users\entra21\source\repos\AuladeWF\aula04\obj\Debug\aula04.pdb
